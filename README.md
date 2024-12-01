@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains two machine learning projects of Aethrone Aerospace:
+This repository contains reports and models of projects of Aethrone Aerospace:
 
 ## 1. **Vehicle CO₂ Emissions Prediction (Problem Statement 1)**
 
